@@ -30,9 +30,10 @@ Atualmente gerencio o Departamento de Geociências no **Instituto Internacional 
 ![FastAPI](https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-24292f?style=flat-square&logo=googleearth&logoColor=white)
 
+### Projetos Públicos neste GitHub
+
+- **[fronteira-soja-agua-webgis](https://github.com/gemendesc/fronteira-soja-agua-webgis):** Plataforma WebGIS analítica (`PostGIS` + `Python ETL` + `MapLibre GL` + `React/TypeScript`) investigando o acoplamento entre supressão de vegetação nativa (PRODES/INPE), exportação e produção de soja (Comex Stat / PAM-IBGE) e demanda hídrica agrícola / exportação de água virtual (SNIRH/ANA) em 1.873 municípios da Amazônia e do Cerrado (`2013–2024`).
+
 ### Em construção neste portfólio
 
-Este perfil está sendo estruturado para reunir repositórios públicos com foco prático em engenharia geoespacial:
-
-- **Aplicações WebGIS demonstrativas:** projetos interativos construídos sobre bases de dados abertos oficiais, cobrindo desde o banco espacial em PostGIS até a visualização web.
 - **Snippets de ArcGIS Arcade:** biblioteca de expressões reutilizáveis para cálculo de atributos em tempo de execução, formatação dinâmica de pop-ups, simbologia condicional e indicadores em *ArcGIS Dashboards*.
