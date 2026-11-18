@@ -32,7 +32,7 @@ Atualmente gerencio o Departamento de Geociências no **Instituto Internacional 
 
 ### Projetos Públicos neste GitHub
 
-- **[fronteira-soja-agua-webgis](https://github.com/gemendesc/fronteira-soja-agua-webgis):** Plataforma WebGIS analítica (`PostGIS` + `Python ETL` + `MapLibre GL` + `React/TypeScript`) investigando o acoplamento entre supressão de vegetação nativa (PRODES/INPE), exportação e produção de soja (Comex Stat / PAM-IBGE) e demanda hídrica agrícola / exportação de água virtual (SNIRH/ANA) em 1.873 municípios da Amazônia e do Cerrado (`2013–2024`).
+- **[fronteira-soja-agua-webgis](https://github.com/gemendesc/fronteira-soja-agua-webgis)** · **[Acessar WebGIS Online](https://webgis-soja.georgemendes.net):** Plataforma WebGIS analítica (`PostGIS` + `Python ETL` + `MapLibre GL` + `React/TypeScript`) investigando o acoplamento entre supressão de vegetação nativa (PRODES/INPE), exportação e produção de soja (Comex Stat / PAM-IBGE) e demanda hídrica agrícola / exportação de água virtual (SNIRH/ANA) em 1.873 municípios da Amazônia e do Cerrado (`2013–2024`).
 
 ### Em construção neste portfólio
 
