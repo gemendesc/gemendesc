@@ -33,7 +33,4 @@ Atualmente gerencio o Departamento de Geociências no **Instituto Internacional 
 ### Projetos Públicos neste GitHub
 
 - **[fronteira-soja-agua-webgis](https://github.com/gemendesc/fronteira-soja-agua-webgis)** · **[Acessar WebGIS Online](https://webgis-soja.georgemendes.net):** Plataforma WebGIS analítica (`PostGIS` + `Python ETL` + `MapLibre GL` + `React/TypeScript`) investigando o acoplamento entre supressão de vegetação nativa (PRODES/INPE), exportação e produção de soja (Comex Stat / PAM-IBGE) e demanda hídrica agrícola / exportação de água virtual (SNIRH/ANA) em 1.873 municípios da Amazônia e do Cerrado (`2013–2024`).
-
-### Em construção neste portfólio
-
-- **Snippets de ArcGIS Arcade:** biblioteca de expressões reutilizáveis para cálculo de atributos em tempo de execução, formatação dinâmica de pop-ups, simbologia condicional e indicadores em *ArcGIS Dashboards*.
+- **[arcgis-arcade-toolkit](https://github.com/gemendesc/arcgis-arcade-toolkit)** · **[Acessar Catálogo & Simulador](https://gemendesc.github.io/arcgis-arcade-toolkit/):** Biblioteca técnica de expressões **ArcGIS Arcade** prontas para produção e simulador visual interativo (`React/TypeScript`) cobrindo interseções espaciais geodésicas sob demanda (TIs/UCs/APP), pop-ups dinâmicos em HTML/SVG inline, matrizes bivariadas `3×3`, controle regulatório de licenças/outorgas (CONAMA/ANA) e *Data Expressions* multi-camadas para *ArcGIS Dashboards*.
